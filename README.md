@@ -1,7 +1,6 @@
 <h4>Ola,Tudo Bem ... <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" style="max-width:100%;"></h4>
  <h5><i> Olá, sou Fernando Junior :bust_in_silhouette: <br>
- Sou estudante de desenvolvimento mobile e web atualmente estudo React e React-Native <br>
- afim de aperfeiçoar minhas habilidades e me tornar um programador na área.  </i></h5></b>
+ Sou estudante de desenvolvimento mobile e web atualmente estudo React e React-Native, afim de aperfeiçoar minhas habilidades e me tornar um programador na área.  </i></h5></b>
 
 <h5>Falando sobre mim :arrow_down:<br> 
 :small_blue_diamond: Atualmente estou em busca de um estágio <br>
